@@ -6,42 +6,6 @@
 }
 
 
-.rectangle_Middle{
-    position: absolute;
-    width: 100%;
-    height: 500px;
-    left: 0px;
-    top: 660px;
-    background: #61AE76;
-    border-radius: 29px;
-}
-.hellipse{
-    position: absolute;
-    width: 280px;
-    height: 90px;
-    background: #61AE76;
-    border-radius: 50px;
-}
-.arrow{
-    position: absolute;
-    width: 60px;
-    height: 70px;
-    z-index: 99999;
-    transform: rotate(-180deg);
-    
-    /* background-color: red; */
-}
-.HA{
-    position: relative;
-    display: flex;
-    justify-content: center;
-    top: 600px; 
-}
-.arrow{
-    cursor: pointer;
-}
-
-
 .text_left{
     position: absolute;
     width: 555px;
